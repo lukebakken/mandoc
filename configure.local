@@ -2,7 +2,7 @@
 MANPATH_DEFAULT=/usr/local/share/man:/usr/share/man
 
 # Arch paths.
-PREFIX=/usr
+PREFIX=/home/lbakken/opt/mandoc
 SBINDIR=$PREFIX/bin
 MANDIR=$PREFIX/share/man
 
